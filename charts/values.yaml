@@ -1,7 +1,0 @@
-## values.yaml
-
-prometheus:
-  enabled: true
-
-grafana:
-  enabled: true
